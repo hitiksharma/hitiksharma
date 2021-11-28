@@ -20,6 +20,23 @@
 </p>
 <br>
 
+<p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeayushi97&" alt="hitiksharma-streak-count" />
+</p>
+<p align="center">
+<a href="https://github.com/hitiksharma/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitiksharma&layout=compact" />
+</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitiksharma&show_icons=true&theme=synthwave" />
+</a>
+</p>
+  
+[![Ayushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitiksharma7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+  
+
 <!--
 **hitiksharma/hitiksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
