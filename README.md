@@ -34,7 +34,7 @@
 </a>
 </p>
   
-[![Hitik's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitiksharma7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Hitik's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitiksharma&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   
 
 <!--
