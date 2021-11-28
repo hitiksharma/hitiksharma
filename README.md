@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeayushi97&" alt="hitiksharma-streak-count" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hitiksharma&" alt="hitiksharma-streak-count" />
 </p>
 <p align="center">
 <a href="https://github.com/hitiksharma/github-readme-stats">
@@ -34,7 +34,7 @@
 </a>
 </p>
   
-[![Ayushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitiksharma7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Hitik's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitiksharma7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   
 
 <!--
