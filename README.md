@@ -2,8 +2,8 @@
 <h3 align="center">An aspiring Software Engineer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hitiksharma&label=Profile%20views&color=0e75b6&style=flat" alt="hitiksharma" /> </p>
 <p align="center">
-<!--  <a href="https://twitter.com/itsayushi_97">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a> -->
+  <a href="https://twitter.com/HitikSharma01">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
   <a href="https://www.linkedin.com/in/hitik-sharma-29966a18b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /> </a>
 
