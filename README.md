@@ -1,14 +1,14 @@
   <body bgcolor="#F0FFF0">
 <h1 align="center"><u>Hello and Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Hitik Sharma</u></h1>
 <h2>=>About Me🗣️</h2>
-<img src="https://tri-nit-hackathon.github.io/lottie/animation_640_kw567zc3.gif" align="right" height=50% width=50%>
-<div style="font-family:Monospace">
+<img src="https://tri-nit-hackathon.github.io/lottie/animation_640_kw567zc3.gif" align="right" height=40% width=40%>
+<div>
 <ul>
   <li><b>An aspiring Software Engineer from India.</li>
   <li>Learning Various adventures of life at SRM Institute of Science and Technology(BTech CSE). </li>
   <li>Gaining Experience in Web-Dev.</li>
   <li>Highly Motivated and Focused.</b></li> </ul>
-<p class="a"><u>Know more about me and My Skills from here⬇️</p>
+<p align="center"><u>Know more about me and My Skills from here⬇️</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hitiksharma&label=Profile%20views&color=0e75b6&style=flat" alt="hitiksharma" /> </p>
 <p align="center"> <a href="https://twitter.com/HitikSharma01">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
