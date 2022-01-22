@@ -12,20 +12,9 @@ h3{
 body{
   background-color:	#F0FFF0;
 }
-.a{
-  font-size:15px;
-  text-align:center;
-  font-family:Monospace;
-}
-.div-text{
-  background-color:;
-  font-family:Monospace;
-  font-size:15px;
-}
-</style>
+  <body bg-color="#F0FFF0">
 <h1><u>Hello and Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Hitik Sharma</u></h1>
 <h2>=>About Me🗣️</h2>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Rubik+Beastly&display=swap" rel="stylesheet">
 <img src="https://tri-nit-hackathon.github.io/lottie/animation_640_kw567zc3.gif" align="right" height=50% width=50%>
 <div style="font-family:Monospace">
 <ul>
@@ -66,7 +55,7 @@ body{
 </a>
 </p>
   
-[![Hitik's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitiksharma&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  </div>
+[![Hitik's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitiksharma&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  </div> </body>
   
 <!--
 **hitiksharma/hitiksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
