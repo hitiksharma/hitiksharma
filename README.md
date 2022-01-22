@@ -27,7 +27,7 @@ body{
 <h2>=>About Me🗣️</h2>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Rubik+Beastly&display=swap" rel="stylesheet">
 <img src="https://tri-nit-hackathon.github.io/lottie/animation_640_kw567zc3.gif" align="right" height=50% width=50%>
-<div style="font-family:Monospace; fontsize:15px;">
+<div style="font-family:Monospace">
 <ul>
   <li><b>An aspiring Software Engineer from India.</li>
   <li>Learning Various adventures of life at SRM Institute of Science and Technology(BTech CSE). </li>
