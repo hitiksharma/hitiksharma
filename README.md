@@ -2,7 +2,7 @@
   <body bgcolor="#F0FFF0">
 <h1 align="center"><u>Hello and Welcome <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="25px">,I'm Hitik Sharma</u></h1>
 <h2>=>About Me🗣️</h2>
-<img src="https://tri-nit-hackathon.github.io/lottie/animation_640_kw567zc3.gif" align="right" height=40% width=40%>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height=40% width=40%>
 <div>
 <ul>
   <li><b>An aspiring Software Engineer from India.</li>
