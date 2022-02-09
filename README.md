@@ -2,7 +2,7 @@
   <body bgcolor="#F0FFF0">
 <h1 align="center"><u>Hello and Welcome<img src="https://i.pinimg.com/originals/86/9e/7b/869e7bf9d1fd29adbe4190ac4168d709.gif" width="45px">,I'm Hitik Sharma</u></h1>
 <h2>=>About Me🗣️</h2>
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height=50% width=50%>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height=45% width=40%>
 <div>
 <ul>
   <li><b>An aspiring Software Engineer from India.</li>
