@@ -11,7 +11,7 @@
        <li>Discovering my Data-Structure Skills.</li>
       <li>Passionate about Soft-Skills and Integrated Vocabulary.</li>
     </ul>
-
+</div>
 <p align="center"> Connect Here: -
   <a href="https://twitter.com/itsayushi_97">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
@@ -45,7 +45,7 @@
 
 <br>
 
-  </div>
+  
 [![Ayushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmeayushi97&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   
 <!--
