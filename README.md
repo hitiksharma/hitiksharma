@@ -1,6 +1,6 @@
 <h1 align="center">Hey!! <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-woman-waving-72dpi-forPersonalUseOnly.gif" height="50px" width="50px">, I'm Ayushi Kumari</h1>
 <p align="center"><b>To know more about me Just Scroll Down⬇️<b></p>
-<h3>➤About Me <img src="https://media2.giphy.com/media/evmKLOaFXWCdOdKdZw/giphy.gif" height=30px width=30px</h3>
+➤About Me <img src="https://media2.giphy.com/media/evmKLOaFXWCdOdKdZw/giphy.gif" height=30px width=30px>
 <img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b76115b4f9097f1e1d8fcb5c1edbf14ba3b2fd7c24f96&rid=giphy.gif&ct=g" align="right" height=45% width=40%>
 <!--
 **itsmeayushi97/itsmeayushi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -21,7 +21,7 @@
 
 <p align="center"> <img width=140px src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=red&style=flat-square" alt="itsmeayushi97" /> </p>
 
-  <p align="left">➨Languages and Tools 📝:</p>
+➨Languages and Tools 📝:
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
