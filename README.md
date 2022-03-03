@@ -1,6 +1,6 @@
 <h1 align="center">Hey!! <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-woman-waving-72dpi-forPersonalUseOnly.gif" height="50px" width="50px">, I'm Ayushi Kumari</h1>
 <p align="center"><b>To know more about me Just Scroll Down⬇️<b></p>
-➤About Me <img src="https://media2.giphy.com/media/evmKLOaFXWCdOdKdZw/giphy.gif" height=30px width=30px>
+➤About Me <img src="https://thumbs.dreamstime.com/b/speaking-woman-silhouette-icon-isolated-white-background-speaking-woman-silhouette-icon-103097243.jpg" height=30px width=30px>
 <img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b76115b4f9097f1e1d8fcb5c1edbf14ba3b2fd7c24f96&rid=giphy.gif&ct=g" align="right" height=45% width=40%>
 <!--
 **itsmeayushi97/itsmeayushi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
