@@ -53,8 +53,8 @@
       flex-wrap: wrap;
     }
     .skills img, .social-icons img {
-      width: 50px;
-      height: 50px;
+      width: 40px;
+      height: 40px;
       margin: 10px;
       border-radius: 50%;
       border: 2px solid #0366d6;
