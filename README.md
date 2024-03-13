@@ -1,61 +1,161 @@
-  <html>
-  <body bgcolor="#F0FFF0">
-<h1 align="center"><u>Hello and Welcome<img src="https://i.pinimg.com/originals/86/9e/7b/869e7bf9d1fd29adbe4190ac4168d709.gif" width="45px">,I'm Hitik Sharma</u></h1>
-<h2>=>About Me🗣️</h2>
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height=45% width=40%>
-<div>
-<ul>
-  <li><b>An aspiring Software Engineer from India.</li>
-  <li>Learning Various adventures of life at SRM Institute of Science and Technology(BTech CSE). </li>
-  <li>Gaining Experience in Web-Dev.</li>
-  <li>Highly Motivated and Focused.</b></li> </ul>
-<p align="center"><u>Know more about me and My Skills from here⬇️</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hitiksharma&label=Profile%20views&color=0e75b6&style=flat" alt="hitiksharma" /> </p>
-<p align="center"> <a href="https://twitter.com/HitikSharma01">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
-  <a href="https://www.linkedin.com/in/hitik-sharma-29966a18b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /> </a>
-<h3 align="center"><u>Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="40" >  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
-<br>
-<p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hitiksharma&" alt="hitiksharma-streak-count" />
-</p>
-<p align="center">
-<a href="https://github.com/hitiksharma/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitiksharma&layout=compact" />
-</a>
-
-&nbsp; &nbsp; &nbsp; &nbsp;
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitiksharma&show_icons=true&theme=synthwave" />
-</a>
-</p>
-  
-[![Hitik's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitiksharma&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  </div> </body> </html>
-  
-<!--
-**hitiksharma/hitiksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hitik Sharma - GitHub Profile</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f7f8fa;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 20px;
+      box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.1);
+    }
+    h1, h2, h3 {
+      color: #0366d6;
+      text-align: center;
+    }
+    p {
+      text-align: justify;
+      line-height: 1.6;
+      font-size: 16px;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    .skills, .projects, .social-icons {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .skills {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .skills img, .social-icons img {
+      width: 50px;
+      height: 50px;
+      margin: 10px;
+      border-radius: 50%;
+      border: 2px solid #0366d6;
+      transition: transform 0.3s ease-in-out;
+    }
+    .skills img:hover, .social-icons img:hover {
+      transform: scale(1.2);
+    }
+    .projects ul {
+      padding-left: 20px;
+    }
+    .projects ul li {
+      margin-bottom: 10px;
+    }
+    .social-icons {
+      text-align: center;
+    }
+    .social-icons a {
+      margin: 10px;
+      text-decoration: none;
+      color: #0366d6;
+      font-size: 20px;
+    }
+    .social-icons a:hover {
+      color: #333;
+    }
+    .linkedin-icon {
+      width: 50px;
+      height: 50px;
+      margin: 10px;
+      transition: transform 0.3s ease-in-out;
+    }
+    .linkedin-icon:hover {
+      transform: scale(1.2);
+    }
+    .repositories-link {
+      text-align: center;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+    .repositories-link a {
+      color: #0366d6;
+      text-decoration: none;
+      font-size: 18px;
+    }
+    .repositories-link a:hover {
+      color: #333;
+    }
+    .repository-card {
+      border: 2px solid #0366d6;
+      border-radius: 10px;
+      margin-top: 20px;
+      padding: 10px;
+    }
+    .repository-card h3 {
+      color: #0366d6;
+      margin-top: 0;
+      font-size: 22px;
+    }
+    .repository-card p {
+      margin-bottom: 0;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Hello and Welcome <img src="https://i.pinimg.com/originals/86/9e/7b/869e7bf9d1fd29adbe4190ac4168d709.gif" width="45px">, I'm Hitik Sharma</h1>
+    <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hitik's gif">
+    <p>I'm currently pursuing my Master's degree in Computer Science at the University of Passau, Germany. With a Bachelor's degree from SRM University, India, I specialize in full-stack development. Passionate about leveraging technology to build innovative solutions, I aim to make a positive impact in the world of software engineering.</p>
+    <div class="skills">
+      <h2>Skills</h2>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+      <img src="https://img.icons8.com/color/452/responsive.png" alt="Responsive Web Design">
+      <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Database Management">
+      <img src="https://www.pngrepo.com/download/303251/teamwork-group.png" alt="Team Management">
+    </div>
+    <div class="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>AI & ML Based Extraction of relevant skills from CV for Job Recruiting Process</li>
+        <li>Book Sharing and Reviewing Website</li>
+      </ul>
+    </div>
+    <div class="social-icons">
+      <h2>Connect with me</h2>
+      <a href="https://www.linkedin.com/in/hitik-sharma-29966a18b/"><img class="linkedin-icon" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"></a>
+    </div>
+    <div class="repositories-link">
+      <a href="https://github.com/hitiksharma" target="_blank">Explore my repositories</a>
+    </div>
+  </div>
+</body>
+</html>
