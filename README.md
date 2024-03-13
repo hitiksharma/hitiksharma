@@ -19,8 +19,8 @@ I'm currently pursuing my Master's degree in Computer Science at the University 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
   <img src="https://img.icons8.com/color/452/responsive.png" alt="Responsive Web Design" width="40" height="40">
-  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Database Management" width="40" height="40">
-  <img src="https://www.pngrepo.com/download/303251/teamwork-group.png" alt="Team Management" width="40" height="40">
+  <img src="https://image.flaticon.com/icons/png/512/23/23681.png" alt="Database Management" width="40" height="40">
+  <img src="https://image.flaticon.com/icons/png/512/992/992665.png" alt="Team Management" width="40" height="40">
 </div>
 
 ## Projects
