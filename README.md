@@ -1,39 +1,95 @@
-# Hitik Sharma - GitHub Profile
+.
 
-![Hitik's gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+👋 Hi, I'm Hitik Sharma
 
-I'm currently pursuing my Master's degree in Computer Science at the University of Passau, Germany. With a Bachelor's degree from SRM University, India, I specialize in full-stack development. Passionate about leveraging technology to build innovative solutions, I aim to make a positive impact in the world of software engineering.
+I'm a Master’s student in Computer Science at the University of Passau, Germany, specializing in AI, Machine Learning, and Full-Stack Development.
+With industry experience in AI-driven manufacturing systems, FinTech product engineering, and mobile app development, I love building impactful, data-driven solutions.
 
-## Skills
+I bring hands-on expertise in data analysis, ML model development, backend engineering, and deploying real-world applications across manufacturing, fintech, and research environments.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
-  <img src="https://img.icons8.com/color/452/responsive.png" alt="Responsive Web Design" width="40" height="40">
-  <img src="https://image.flaticon.com/icons/png/512/23/23681.png" alt="Database Management" width="40" height="40">
-  <img src="https://image.flaticon.com/icons/png/512/992/992665.png" alt="Team Management" width="40" height="40">
-</div>
+🔍 What I’m Focused On
 
-## Projects
+Machine Learning & AI systems
 
-- AI & ML Based Extraction of relevant skills from CV for Job Recruiting Process
-- Book Sharing and Reviewing Website
+Data Analytics & Model Optimization
 
-## Connect with me
+Full-Stack Engineering (React, Node.js, PHP)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hitik-sharma-29966a18b/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"></a>
-</div>
+Computer Vision in manufacturing
 
-## Explore my repositories
+Building scalable, real-world applications
 
-[Explore my repositories](https://github.com/hitiksharma)
+💼 Professional Experience
+AI Solutions Developer — Trivion, Germany
+
+04/2024 – 10/2024
+
+Developed Python-based ML models to detect and classify manufacturing errors with high robustness.
+
+Performed data preprocessing, feature engineering, and statistical evaluation for production environments.
+
+Integrated model outputs into engineering workflows and improved data-driven decision-making.
+
+Product & Engineering Intern — HighRadius, India
+
+01/2022 – 04/2022
+
+Built and deployed a FinTech B2B cloud application with ML-integrated backend logic.
+
+Implemented data pipelines and processed large datasets to derive customer insights.
+
+Designed user-centric UI components to support automation-driven product features.
+
+Mobile App Development Intern — ONGC Foundation, India
+
+06/2021 – 07/2021
+
+Developed a full Flutter mobile application with cloud-backed data ingestion and storage.
+
+Managed seismic metadata and implemented secure authentication + optimized performance workflows.
+
+🛠️ Technical Skills
+
+Languages: Python, SQL, JavaScript, C/C++, HTML/CSS, PHP
+Frameworks: React, Node.js, WordPress
+Tools: Git, VS Code, PyCharm, Visual Studio
+Libraries: pandas, NumPy, Matplotlib
+
+
+🚀 Highlighted Projects
+🔹 AI/ML-Based CV Extraction & Ranking System
+
+Python, SQL, TF-IDF, NLP, PHP
+
+Built ML system analyzing CV–Job Description similarity using NLP & vectorization.
+
+Developed full-stack platform with authentication, data storage, and graphical skill-matching.
+
+🔹 Additive Manufacturing Error Detection (AI for 3D Printing)
+
+Computer Vision, Python, Data Analytics
+
+Implemented predictive models using sensor & camera data for anomaly detection in production.
+
+🔹 Book Sharing & Review System
+
+HTML, CSS, JS, PHP
+
+Developed a platform that allows users to publish, share, and review books using a text editor.
+
+📌 Summary / About Me
+
+I’m a data-driven engineer with experience in:
+
+ML model development
+
+Statistical analysis
+
+Full-stack development
+
+Real-world AI deployment
+
+I love turning complex datasets into actionable insights, building scalable products, and collaborating across teams to deliver impactful solutions.
+
+🌐 Connect with Me
+<div align="center"> <a href="https://www.linkedin.com/in/hitik-sharma-29966a18b/">LinkedIn</a> • <a href="https://github.com/hitiksharma">GitHub</a> </div>
