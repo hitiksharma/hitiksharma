@@ -1,95 +1,56 @@
-.
+# Hitik Sharma
 
-👋 Hi, I'm Hitik Sharma
+M.Sc. Computer Science student at the University of Passau, Germany, with a focus on data science, machine learning and natural language processing.
 
-I'm a Master’s student in Computer Science at the University of Passau, Germany, specializing in AI, Machine Learning, and Full-Stack Development.
-With industry experience in AI-driven manufacturing systems, FinTech product engineering, and mobile app development, I love building impactful, data-driven solutions.
+Currently completing a Master's thesis on an AI-powered Applicant Tracking System that combines deep learning (BiLSTM with Attention), NLP (SBERT, spaCy) and Explainable AI (SHAP, LIME) to automate resume screening and candidate-job matching. The system processes 100,000+ records, trains 12 models and is deployed as a Streamlit web application.
 
-I bring hands-on expertise in data analysis, ML model development, backend engineering, and deploying real-world applications across manufacturing, fintech, and research environments.
+I am building a data science portfolio through weekly research projects, applying ML and statistical analysis to real-world problems and sharing the results publicly. My goal is to transition into a data analyst or data scientist role in Germany.
 
-🔍 What I’m Focused On
+---
 
-Machine Learning & AI systems
+### Currently working on
 
-Data Analytics & Model Optimization
+- Completing my M.Sc. thesis on AI-powered resume screening with Explainable AI
+- Building weekly data science portfolio projects (see pinned repositories below)
+- Strengthening skills in Python, SQL and data visualization
+- Actively seeking Werkstudent and full-time data roles in Germany
 
-Full-Stack Engineering (React, Node.js, PHP)
+### Technical background
 
-Computer Vision in manufacturing
+**Languages and tools:** Python, SQL, PyTorch, scikit-learn, pandas, NumPy, matplotlib, seaborn, Plotly, Streamlit, Git
 
-Building scalable, real-world applications
+**ML and NLP:** SBERT, spaCy, NLTK, TF-IDF, BiLSTM, Random Forest, Gradient Boosting, Logistic Regression, SHAP, LIME
 
-💼 Professional Experience
-AI Solutions Developer — Trivion, Germany
+**Other:** TypeScript, Power BI (learning), MySQL, PostgreSQL, Jupyter Notebook, VS Code
 
-04/2024 – 10/2024
+### Education
 
-Developed Python-based ML models to detect and classify manufacturing errors with high robustness.
+- **M.Sc. Computer Science** — University of Passau, Germany (2023 - present)
+- **B.Tech Computer Science Engineering** — SRM Institute of Science and Technology, India (2019 - 2023)
 
-Performed data preprocessing, feature engineering, and statistical evaluation for production environments.
+### Certifications
 
-Integrated model outputs into engineering workflows and improved data-driven decision-making.
+- Supervised Machine Learning: Regression and Classification — Stanford Online (Coursera)
+- AI Fluency for Students — Anthropic
+- SQL Intermediate — HackerRank
+- Oracle Cloud Infrastructure Foundations — Oracle
+- Python Basics — HackerRank
 
-Product & Engineering Intern — HighRadius, India
+### Portfolio projects
 
-01/2022 – 04/2022
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Employee Attrition Prediction](https://github.com/hitiksharma/Employee-Attrition-Prediction) | Comparative study of 8 ML/DL models on 74,470 multi-industry HR records with SHAP explainability | Python, PyTorch, scikit-learn, SHAP, SMOTE |
+| ATS Thesis (coming soon) | AI-powered Applicant Tracking System with BiLSTM, SBERT, and credential verification | Python, PyTorch, SBERT, spaCy, Streamlit |
 
-Built and deployed a FinTech B2B cloud application with ML-integrated backend logic.
+More projects will be added weekly as part of a 12-week portfolio building effort.
 
-Implemented data pipelines and processed large datasets to derive customer insights.
+### How to reach me
 
-Designed user-centric UI components to support automation-driven product features.
+- **LinkedIn:** [linkedin.com/in/hitik-sharma-29966a18b](https://www.linkedin.com/in/hitik-sharma-29966a18b/)
+- **Email:** sharmahitik23@gmail.com
+- **Location:** Passau, Germany (open to relocating within Germany)
 
-Mobile App Development Intern — ONGC Foundation, India
+---
 
-06/2021 – 07/2021
-
-Developed a full Flutter mobile application with cloud-backed data ingestion and storage.
-
-Managed seismic metadata and implemented secure authentication + optimized performance workflows.
-
-🛠️ Technical Skills
-
-Languages: Python, SQL, JavaScript, C/C++, HTML/CSS, PHP
-Frameworks: React, Node.js, WordPress
-Tools: Git, VS Code, PyCharm, Visual Studio
-Libraries: pandas, NumPy, Matplotlib
-
-
-🚀 Highlighted Projects
-🔹 AI/ML-Based CV Extraction & Ranking System
-
-Python, SQL, TF-IDF, NLP, PHP
-
-Built ML system analyzing CV–Job Description similarity using NLP & vectorization.
-
-Developed full-stack platform with authentication, data storage, and graphical skill-matching.
-
-🔹 Additive Manufacturing Error Detection (AI for 3D Printing)
-
-Computer Vision, Python, Data Analytics
-
-Implemented predictive models using sensor & camera data for anomaly detection in production.
-
-🔹 Book Sharing & Review System
-
-HTML, CSS, JS, PHP
-
-Developed a platform that allows users to publish, share, and review books using a text editor.
-
-📌 Summary / About Me
-
-I’m a data-driven engineer with experience in:
-
-ML model development
-
-Statistical analysis
-
-Full-stack development
-
-Real-world AI deployment
-
-I love turning complex datasets into actionable insights, building scalable products, and collaborating across teams to deliver impactful solutions.
-
-🌐 Connect with Me
-<div align="center"> <a href="https://www.linkedin.com/in/hitik-sharma-29966a18b/">LinkedIn</a> • <a href="https://github.com/hitiksharma">GitHub</a> </div>
+*This profile is actively maintained. New projects and updates are added weekly.*
